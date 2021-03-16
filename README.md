@@ -7,6 +7,14 @@ O intuito dessa aula é mostrar de forma sucinta como implementar mensageria de 
 Nessa aula iremos implementar o conceito listener e consumer presentes no Message Broker Rabbitmq, baseado no fluxo de eventos na qual tem varios tipos de implementações:
 Processamento do fluxo do evento, Processamento de evento simples e complexo.
 
+Para executar o projeto:
+
+```
+git clone git@github.com:rocketseat-experts-club/rabbirmq-spring-2020-03-15.git
+cd demo
+docker-compose up -d --build
+```
+
 
 ## Expert
 
