@@ -1,0 +1,20 @@
+{'notification_type' : 'REGISTRATION_PURCHASED', 'subscription': '5793cf6b3fd833521db8c420955e6f01'}
+{'notification_type' : 'REGISTRATION_PURCHASED', 'subscription': '5793cf6b3fd833521db8c420955e6f02'}
+{'notification_type' : 'REGISTRATION_PURCHASED', 'subscription': '5793cf6b3fd833521db8c420955e6f03'}
+{'notification_type' : 'REGISTRATION_PURCHASED', 'subscription': '5793cf6b3fd833521db8c420955e6f04'}
+{'notification_type' : 'REGISTRATION_PURCHASED', 'subscription': '5793cf6b3fd833521db8c420955e6f05'}
+{'notification_type' : 'REGISTRATION_PURCHASED', 'subscription': '5793cf6b3fd833521db8c420955e6f06'}
+{'notification_type' : 'REGISTRATION_PURCHASED', 'subscription': '5793cf6b3fd833521db8c420955e6f07'}
+{'notification_type' : 'REGISTRATION_PURCHASED', 'subscription': '5793cf6b3fd833521db8c420955e6f08'}
+{'notification_type' : 'REGISTRATION_PURCHASED', 'subscription': '5793cf6b3fd833521db8c420955e6f09'}
+{'notification_type' : 'REGISTRATION_PURCHASED', 'subscription': '5793cf6b3fd833521db8c420955e6f00'}
+
+
+{'notification_type' : 'REGISTRATION_CANCELED', 'subscription': '5793cf6b3fd833521db8c420955e6f06'}
+{'notification_type' : 'REGISTRATION_CANCELED', 'subscription': '5793cf6b3fd833521db8c420955e6f03'}
+{'notification_type' : 'REGISTRATION_CANCELED', 'subscription': '5793cf6b3fd833521db8c420955e6f08'}
+{'notification_type' : 'REGISTRATION_CANCELED', 'subscription': '5793cf6b3fd833521db8c420955e6f00'}
+
+
+{'notification_type' : 'REGISTRATION_RESTARTED', 'subscription': '5793cf6b3fd833521db8c420955e6f06'}
+{'notification_type' : 'REGISTRATION_RESTARTED', 'subscription': '5793cf6b3fd833521db8c420955e6f00'}
