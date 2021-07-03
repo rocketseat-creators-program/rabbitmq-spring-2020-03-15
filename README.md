@@ -15,7 +15,8 @@ cd demo
 docker-compose up -d --build
 ```
 
-
 ## Expert
 
-[Ana Beatriz Neri](https://github.com/anabneri)
+| [<img src="https://avatars.githubusercontent.com/u/42419543?v=4" width="75px;"/>](https://github.com/anabneri) |
+| :-: |
+|[Ana Neri](https://github.com/anabneri)|
